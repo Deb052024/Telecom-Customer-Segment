@@ -54,6 +54,66 @@ Huawei B-5285 handset is used by maximum number of users from Fig-5
 ![image](https://github.com/user-attachments/assets/1692717e-9124-4997-83a9-efac08c635fc)
 
 
+**Key Interpretations and Findings:**
+
+Data Volume and Application Usage Correlation:
+
+The code calculates the correlation between total data volume and usage for various applications (e.g., Social Media, YouTube, Netflix).
+Finding: The correlation analysis helps identify which applications are most strongly related to higher overall data usage. For example, if YouTube data volume shows a strong positive correlation with total data volume, it suggests that users who consume more YouTube content generally have a higher overall data usage.
+
+Session Duration vs. Data Volume:
+Scatter plots are used to analyze the relationship between total session duration and total data volume for the top 6 users (identified by highest data volume).
+Finding: The scatter plot helps reveal if there is a positive correlation between session duration and data volume, indicating that users with longer sessions generally use more data. It could also help identify outliers, where users have short sessions but very high data volume, possibly due to large file downloads.
+
+User Segmentation with Deciles:
+The code divides users into deciles based on their total data volume.
+Finding: This categorization can reveal patterns in data consumption across different user segments. For example, users in the top decile might have very different usage behavior compared to those in the lower deciles.
+
+Principal Component Analysis (PCA):
+PCA is applied to reduce the dimensionality of the data and identify underlying patterns.
+Finding: PCA helps create new features (principal components) that capture the most important variations in the data. By analyzing the explained variance ratio and loadings, you can gain insights into which original features contribute most to these new features. For example, PC1 might represent overall data usage, PC2 might represent social media usage, etc.
+
+Correlation Matrix of Application Data:
+A correlation matrix is generated to understand the relationship between different application data.
+Finding: The heatmap of the correlation matrix helps reveal how usage of different applications is linked. For example, if Social Media data and YouTube data have a strong positive correlation, it suggests users who heavily use social media also tend to consume more YouTube content.
+
+Session Frequency Analysis:
+The code calculates the frequency of sessions for each user (MSISDN).
+Finding: This helps identify the users with the highest number of sessions, which could be considered highly active or engaged users.
+
+Total Traffic Calculation:
+The code calculates the total traffic (upload + download) for all users.
+Finding: This provides a general overview of the network's total data usage.
+
+Customer Engagement Analysis:
+Aggregation per Customer: Metrics like session duration, data volume, and session counts are aggregated per customer (MSISDN).
+
+Top 10 Customers: The top 10 customers based on various engagement metrics are identified.
+
+Normalization and Clustering: Engagement metrics are normalized, and k-means clustering (with k=3) is used to group customers into clusters based on their engagement level.
+
+Cluster Statistics and Interpretation: Statistics like the minimum, maximum, average, and total values are computed for each cluster. Visualizations (e.g., scatter plots) help understand the characteristics of each cluster.
+
+Finding: The clusters reveal insights into user behavior. For example, one cluster might represent high-engagement users, another represents medium-engagement users, and a third represents low-engagement users.
+Application Usage by Users:
+
+User total traffic per application is calculated.
+
+Top 10 Users: The top 10 most engaged users for each application are identified.
+
+Top Application Usage: The top 3 most used applications are plotted using a bar chart.
+
+Finding: This helps understand which applications are the most popular among users and which users are the most engaged with each application.
+
+Optimal k for K-Means Clustering:
+
+The elbow method is used to find the optimal number of clusters (3) for k-means.
+Finding: The elbow point on the inertia plot suggests the optimal k value, which represents a balance between maximizing variance explained within clusters and minimizing the number of clusters.
+
+
+![image](https://github.com/user-attachments/assets/aa5f4b82-f55d-4660-b634-8238e2a3cc7c)
+
+
 
 
 

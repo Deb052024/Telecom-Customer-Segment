@@ -135,8 +135,15 @@ Finding: The elbow point on the inertia plot suggests the optimal k value, whic
 
 
 
+![image](https://github.com/user-attachments/assets/5d888f4e-dc8d-47ae-b32f-0b78b6e4295f)
+
+
+
+
 
 ![image](https://github.com/user-attachments/assets/67ceee92-8047-4e31-a293-6ca0738cca56)
+
+
 
 
 

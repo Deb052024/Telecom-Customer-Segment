@@ -1,4 +1,4 @@
-Overview:
+**Overview**
 
  An investor is interested to purchase a Telco based out in Republic of Pefkakia. This investor’s due diligence on all purchases includes a detailed analysis of the data that underlies the business, to try to understand the fundamentals of the business and especially to identify opportunities to drive profitability by changing the focus of which products or services are being offered.
 
@@ -10,7 +10,18 @@ Objective:
 
 To deliver insights that helps the Investor on the below four parameters :
 							
-	
+ User Overview Analysis 
+User Experience Analysis
+User Satisfaction Analysis
+ User Engagement analysis 
+
+ ![image](https://github.com/user-attachments/assets/aa660c24-08be-45e9-87e4-34b42578a27c)
+
+ ![image](https://github.com/user-attachments/assets/7a2cf8ab-b262-4017-8c3f-7e1e5a6c060d)
 
 
-![image](https://github.com/user-attachments/assets/a42597df-23c8-4833-9cac-93aa8761b47b)
+
+
+
+
+

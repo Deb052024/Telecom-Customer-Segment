@@ -110,8 +110,12 @@ Optimal k for K-Means Clustering:
 The elbow method is used to find the optimal number of clusters (3) for k-means.
 Finding: The elbow point on the inertia plot suggests the optimal k value, which represents a balance between maximizing variance explained within clusters and minimizing the number of clusters.
 
+**User Experience Analysis**
 
-![image](https://github.com/user-attachments/assets/aa5f4b82-f55d-4660-b634-8238e2a3cc7c)
+![image](https://github.com/user-attachments/assets/2d85b1e2-83f1-4c90-a35d-a26de12883a1)
+
+
+
 
 
 

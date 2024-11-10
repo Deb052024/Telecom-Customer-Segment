@@ -22,13 +22,27 @@ User Satisfaction Analysis
  ![image](https://github.com/user-attachments/assets/b2e4f465-6f11-48bd-bd0e-4404e5a2e108)
 
  Interpretation:
+
 Top 3 MSISDN/Number based on number of XDR Sessions are 4.1882,3.362632e+10,3.362578e+10  respectively from fig-1
+
 Total session Duration for the Top 3 MSISDN are 7.255100e+07,1 .855375e+07,9.966898e+06  respectively from fig-2
+
 Total Data Volume by top 3 MSISDN/Number are  5.317447e+11,8.846226e+09,8.514774e+09 respectively from fig-3
+
 Top 5 Handset manufacturers present in data set are Apple, Samsung, Huawei, undefined and  Sony from fig-4
+
 Huawei B-5285 handset is used by maximum number of users from Fig-5
 
 ![image](https://github.com/user-attachments/assets/654d2d92-d783-4558-94b3-6b059c0d3722)
+
+
+![image](https://github.com/user-attachments/assets/b37a4584-f5f3-4438-92fd-73bd90c69138)
+
+![image](https://github.com/user-attachments/assets/df8e624f-7564-410d-a686-73d4347e1d53)
+
+
+![image](https://github.com/user-attachments/assets/a6d53d64-7cb7-412f-a1fc-90ec9cfa7e8a)
+
 
 
 
